@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cover.gif" alt="It's me" width="150"/>
+  <img src="./assets/coverrr.gif" alt="It's me" width="300"/>
 </p>
 
 # 👋 Hello, I'm Minh!
