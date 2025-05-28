@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/cover.gif" alt="It's me" width="300"/>
+</p>
+
 # 👋 Hello, I'm Minh!
 
 🧑‍🎓 I'm a final-year student majoring in **Software Engineering** at HUTECH University.  
