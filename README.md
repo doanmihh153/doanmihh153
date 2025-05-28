@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cover.gif" alt="It's me" width="300"/>
+  <iframe src="https://doanmihh153.github.io/animation-lottie/" width="400" height="400" frameborder="0" scrolling="no"></iframe>
 </p>
 
 # 👋 Hello, I'm Minh!
