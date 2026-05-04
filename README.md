@@ -189,10 +189,18 @@ and continuously pushing myself to grow — not just for myself, but also to con
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=doanmihh153&theme=solarized_dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 💻 Language Distribution (All Repos)
+### 💻 Language Distribution
 
-<p>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanmihh153&layout=compact&theme=radical&hide_border=true&langs_count=12&count_private=true&card_width=800" alt="Top Languages" />
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 </p>
 
 ### 📈 Contribution Activity
@@ -226,30 +234,25 @@ and continuously pushing myself to grow — not just for myself, but also to con
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/doanmihh153?tab=repositories&sort=updated">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/doanmihh153/vicophar-website-frontend">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=doanmihh153&repo=vicophar-website-frontend&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/🌐_Vicophar_Website-JavaScript-F7DF1E?style=for-the-badge" alt="Vicophar Website"/>
   </a>
+  &nbsp;
   <a href="https://github.com/doanmihh153/API-TrelloApp">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=doanmihh153&repo=API-TrelloApp&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/📋_Trello_API-JavaScript-F7DF1E?style=for-the-badge" alt="Trello API"/>
   </a>
-</p>
-<p align="center">
+  &nbsp;
   <a href="https://github.com/doanmihh153/trello-app">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=doanmihh153&repo=trello-app&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/doanmihh153/social-mini-php-laravel">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=doanmihh153&repo=social-mini-php-laravel&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/📱_Trello_App-JavaScript-F7DF1E?style=for-the-badge" alt="Trello App"/>
   </a>
 </p>
 <p align="center">
+  <a href="https://github.com/doanmihh153/social-mini-php-laravel">
+    <img src="https://img.shields.io/badge/🌟_Social_Mini-PHP-777BB4?style=for-the-badge" alt="Social Mini"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/doanmihh153/app-chat-Tetholi">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=doanmihh153&repo=app-chat-Tetholi&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/💬_Chat_Tetholi-Dart-0175C2?style=for-the-badge" alt="Chat Tetholi"/>
   </a>
 </p>
 
@@ -267,31 +270,32 @@ and continuously pushing myself to grow — not just for myself, but also to con
 
 <p align="center">
   <a href="mailto:doanmihh1533@gmail.com">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail" alt="Email" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/doanmihh153" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=github" alt="GitHub" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/doan-minh-15032k3/" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin" alt="LinkedIn" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.behance.net/doanmihh15_3" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=behance" alt="Behance" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
   <a href="https://stackoverflow.com/users/32110215/mihhx" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=stackoverflow" alt="Stack Overflow" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://x.com/doanmihh15_3" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=x" alt="X (Twitter)" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.reddit.com/user/doanmihh15_3/" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=reddit" alt="Reddit" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
 </p>
 
