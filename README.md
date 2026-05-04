@@ -6,8 +6,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=doanmihh153&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/doanmihh153?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/doanmihh153?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+  <a href="https://github.com/doanmihh153?tab=followers">
+    <img src="https://img.shields.io/github/followers/doanmihh153?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  </a>
+  <a href="https://github.com/doanmihh153?tab=repositories">
+    <img src="https://img.shields.io/github/stars/doanmihh153?label=Total%20Stars&style=for-the-badge&color=yellow" alt="stars" />
+  </a>
 </p>
 
 <p align="center">
@@ -178,53 +182,81 @@ and continuously pushing myself to grow — not just for myself, but also to con
 
 <div align="center">
   
-### 📈 Overall Stats
+### 📈 Overall Stats & Streak
   
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=doanmihh153&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Minh's%20GitHub%20Stats" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=doanmihh153&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=doanmihh153&theme=solarized_dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 💻 Most Used Languages
+### 💻 Language Distribution (All Repos)
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanmihh153&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+<p>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanmihh153&layout=compact&theme=radical&hide_border=true&langs_count=12&count_private=true&card_width=800" alt="Top Languages" />
 </p>
 
-### 📊 Contribution Graph
+### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=doanmihh153&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=doanmihh153&theme=vue&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="100%" />
+
+### 📊 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doanmihh153&theme=solarized_dark" alt="Profile Summary" width="100%" />
+
+
+
+### ⏰ Productive Time & Language Stats
+
+<p>
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=doanmihh153&theme=solarized_dark&utcOffset=7" alt="Productive Time" />
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doanmihh153&theme=solarized_dark" alt="Most Commit Language" />
+</p>
+
+<p>
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doanmihh153&theme=solarized_dark" alt="Repos per Language" />
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=doanmihh153&theme=solarized_dark" alt="Stats" />
+</p>
 
 ### 🏆 GitHub Achievements
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=doanmihh153&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=doanmihh153&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
 </p>
 
-### 📌 Pinned Repositories
+### 📌 Featured Projects
 
-<p>
-  <a href="https://github.com/doanmihh153">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmihh153&repo=doanmihh153&theme=radical&hide_border=true" alt="Pinned Repo" />
+<p align="center">
+  <a href="https://github.com/doanmihh153?tab=repositories&sort=updated">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/doanmihh153/vicophar-website-frontend">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=doanmihh153&repo=vicophar-website-frontend&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/doanmihh153/API-TrelloApp">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=doanmihh153&repo=API-TrelloApp&theme=radical&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/doanmihh153/trello-app">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=doanmihh153&repo=trello-app&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/doanmihh153/social-mini-php-laravel">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=doanmihh153&repo=social-mini-php-laravel&theme=radical&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/doanmihh153/app-chat-Tetholi">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=doanmihh153&repo=app-chat-Tetholi&theme=radical&hide_border=true" />
   </a>
 </p>
 
 ### 💡 Random Dev Quote
 
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doanmihh153/doanmihh153/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doanmihh153/doanmihh153/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/doanmihh153/doanmihh153/output/github-contribution-grid-snake.svg">
-</picture>
-
 <p align="center">
-  <i>⚠️ Snake animation will appear after running the GitHub Action for the first time (see instructions below)</i>
+  <img width="50%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&font=serif" alt="Random Dev Quote" />
 </p>
 
 </div>
@@ -235,13 +267,35 @@ and continuously pushing myself to grow — not just for myself, but also to con
 
 <p align="center">
   <a href="mailto:doanmihh1533@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail" alt="Email" width="50" height="50"/>
   </a>
-  <a href="https://github.com/doanmihh153">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/doanmihh153" target="_blank">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=github" alt="GitHub" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/doan-minh-15032k3/" target="_blank">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.behance.net/doanmihh15_3" target="_blank">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=behance" alt="Behance" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/32110215/mihhx" target="_blank">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=stackoverflow" alt="Stack Overflow" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/doanmihh15_3" target="_blank">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=x" alt="X (Twitter)" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/doanmihh15_3/" target="_blank">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=reddit" alt="Reddit" width="50" height="50"/>
   </a>
 </p>
 
+<br>
 <p align="center">
   💻 Personal website: <i>coming soon</i> ☺️
 </p>
